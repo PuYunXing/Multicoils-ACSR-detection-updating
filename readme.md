@@ -103,7 +103,7 @@ $$
 &emsp;Referencing theoretical calculations, we designed several coil models with different turn number ratios to conduct experiments.
 
 <div align=center>
-<img src="Fig\coil3.jpg" height="500"/><img src="Fig\coil3-e.png" height="500"/>
+<img src="Fig\coil3.jpg" height="400"/><img src="Fig\coil3-e.png" height="400"/>
 </div>
 <div align = "center">Fig.11. Coil model & Experiment</div>
 
